@@ -19,10 +19,8 @@ function insertionSort(arr) {
 	}
 }
 
-// TOTAL RUNTIME: O(n^2)
+// TOTAL RUNTIME: O(n^2) Worst Case
 
 printArr(testArrays.long, false, type);
-
 insertionSort(testArrays.long);
-
 printArr(testArrays.long, true, type);
