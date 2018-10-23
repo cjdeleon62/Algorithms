@@ -1,6 +1,7 @@
 // The different types of Algorithms we can use to sort an array.
 var sortTypes = {
 	insertion: 'Insertion Sort',
+	selection: 'Selection Sort',
 };
 
 /**
